@@ -15,9 +15,12 @@
     - botão para operação de multiplicação
     - botão para operação de subtração
     - botão para mostrar o resultado do calculo matemático
-    - botão ter um botão para limpar os números e resultados
+    - botão ter um botão para limpar todos os números e resultados
     - ser responsivo
 
    *Não funcionais:
     - Interface simples com botão legivel 
     - calculo imediato
+
+    Imagem protótipo:
+    ![alt text](imagem-prototipo.png)
